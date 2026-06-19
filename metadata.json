@@ -1,0 +1,6 @@
+{
+  "name": "Store Metrics & AI Supply Planner",
+  "description": "An integrated retail performance, AI-driven replenishment prediction, scorecard tracking, and buyer purchase planning application.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
